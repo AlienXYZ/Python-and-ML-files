@@ -1,3 +1,7 @@
+#CSV files content uploaded separately
+#Through this code, user can book his appointment for Covid Vaccination for the same day,next day or next to next day. The code maintains a record of no. of slots
+#left for each day and specific age group. Logging in requires Aadhar no. and password authentication.
+
 from csv import writer
 from csv import reader
 import os
