@@ -1,3 +1,7 @@
+#This code creates a schedule for matches in a tournament, ensuring that no participant/team plays two matches consecutively and gets a rest of at least 1 match.
+#For example, in a group of 13 people, if there is a 3-player game, the code will give a schedule for a tournament where each player plays every other player and also gets a rest of at least 1 match.
+#Eg: Schedule for tournaments like IPL can be drawn from this code- total 8 teams, and 2 teams playing in each match.
+
 import random
 import math
 teamlist=[]
