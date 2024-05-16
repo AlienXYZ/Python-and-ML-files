@@ -1,0 +1,151 @@
+CSV files for Covid Vaccination Slots project
+
+locker.csv
+1.23457E+11	qwertyui
+98765432109	poiuytre
+5.64738E+11	zxcvbnmm
+3.94028E+11	lkjhgfds
+
+n1.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1A	Saidhan Health 	15-17 yrs	Covaxin/Covishield	Paid	86
+2A	Community Care 	15-17 yrs	Covaxin/Covishield	Paid	48
+3A	LifelineMedical	15-17 yrs	Covaxin/Covishield	Paid	17
+4A	Jumbo Center   	15-17 yrs	Covaxin/Covishield	Free	49
+5A	Fortis Hospital	15-17 yrs	Covaxin/Covishield	Paid	28
+6A	Wellness Center	15-17 yrs	Covaxin/Covishield	Paid	12
+7A	My Health Care 	15-17 yrs	Covaxin/Covishield	Paid	80
+8A	Family Health  	15-17 yrs	Covaxin/Covishield	Paid	1
+9A	Apex Hospital  	15-17 yrs	Covaxin/Covishield	Paid	30
+
+n2.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1A	Apex Hospital  	15-17 yrs	Covaxin/Covishield	Paid	3
+2A	Jumbo Center   	15-17 yrs	Covaxin/Covishield	Free	46
+3A	Community Care 	15-17 yrs	Covaxin/Covishield	Paid	61
+4A	LifelineMedical	15-17 yrs	Covaxin/Covishield	Paid	62
+5A	Fortis Hospital	15-17 yrs	Covaxin/Covishield	Paid	7
+6A	Wellness Center	15-17 yrs	Covaxin/Covishield	Paid	8
+7A	Family Health  	15-17 yrs	Covaxin/Covishield	Paid	83
+8A	My Health Care 	15-17 yrs	Covaxin/Covishield	Paid	88
+9A	Saidhan Health 	15-17 yrs	Covaxin/Covishield	Paid	4
+
+n3.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1A	Fortis Hospital	15-17 yrs	Covaxin/Covishield	Paid	84
+2A	LifelineMedical	15-17 yrs	Covaxin/Covishield	Paid	2
+3A	Family Health  	15-17 yrs	Covaxin/Covishield	Paid	11
+4A	Saidhan Health 	15-17 yrs	Covaxin/Covishield	Paid	81
+5A	Jumbo Center   	15-17 yrs	Covaxin/Covishield	Free	87
+6A	My Health Care 	15-17 yrs	Covaxin/Covishield	Paid	31
+7A	Apex Hospital  	15-17 yrs	Covaxin/Covishield	Paid	65
+8A	Community Care 	15-17 yrs	Covaxin/Covishield	Paid	7
+9A	Wellness Center	15-17 yrs	Covaxin/Covishield	Paid	61
+
+o1.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1B	Wellness Center	18-45 yrs	Covaxin/Covishield	Paid	33
+2B	Family Health  	18-45 yrs	Covaxin/Covishield	Paid	68
+3B	Jumbo Center   	18-45 yrs	Covaxin/Covishield	Paid	13
+4B	LifelineMedical	18-45 yrs	Covaxin/Covishield	Paid	34
+5B	Saidhan Health 	18-45 yrs	Covaxin/Covishield	Free	67
+6B	Community Care 	18-45 yrs	Covaxin/Covishield	Paid	15
+7B	Fortis Hospital	18-45 yrs	Covaxin/Covishield	Paid	80
+8B	My Health Care 	18-45 yrs	Covaxin/Covishield	Paid	86
+9B	Apex Hospital  	18-45 yrs	Covaxin/Covishield	Paid	29
+
+o2.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1B	LifelineMedical	18-45 yrs	Covaxin/Covishield	Paid	26
+2B	Community Care 	18-45 yrs	Covaxin/Covishield	Paid	17
+3B	Family Health  	18-45 yrs	Covaxin/Covishield	Paid	8
+4B	Fortis Hospital	18-45 yrs	Covaxin/Covishield	Paid	16
+5B	Saidhan Health 	18-45 yrs	Covaxin/Covishield	Paid	72
+6B	Apex Hospital  	18-45 yrs	Covaxin/Covishield	Paid	63
+7B	Wellness Center	18-45 yrs	Covaxin/Covishield	Paid	19
+8B	My Health Care 	18-45 yrs	Covaxin/Covishield	Paid	52
+9B	Jumbo Center   	18-45 yrs	Covaxin/Covishield	Free	11
+
+o3.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1B	Community Care 	18-45 yrs	Covaxin/Covishield	Paid	50
+2B	My Health Care 	18-45 yrs	Covaxin/Covishield	Paid	19
+3B	Saidhan Health 	18-45 yrs	Covaxin/Covishield	Paid	12
+4B	Wellness Center	18-45 yrs	Covaxin/Covishield	Paid	37
+5B	Jumbo Center   	18-45 yrs	Covaxin/Covishield	Free	78
+6B	LifelineMedical	18-45 yrs	Covaxin/Covishield	Paid	33
+7B	Apex Hospital  	18-45 yrs	Covaxin/Covishield	Paid	79
+8B	Fortis Hospital	18-45 yrs	Covaxin/Covishield	Paid	25
+9B	Family Health  	18-45 yrs	Covaxin/Covishield	Paid	70
+
+p1.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1C	Fortis Hospital	45-60 yrs	Covaxin/Covishield	Paid	2
+2C	My Health Care 	45-60 yrs	Covaxin/Covishield	Paid	15
+3C	LifelineMedical	45-60 yrs	Covaxin/Covishield	Paid	54
+4C	Community Care 	45-60 yrs	Covaxin/Covishield	Paid	80
+5C	Wellness Center	45-60 yrs	Covaxin/Covishield	Paid	90
+6C	Saidhan Health 	45-60 yrs	Covaxin/Covishield	Paid	72
+7C	Jumbo Center   	45-60 yrs	Covaxin/Covishield	Free	2
+8C	Family Health  	45-60 yrs	Covaxin/Covishield	Paid	16
+9C	Apex Hospital  	45-60 yrs	Covaxin/Covishield	Paid	75
+
+p2.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1C	LifelineMedical	45-60 yrs	Covaxin/Covishield	Paid	34
+2C	Apex Hospital  	45-60 yrs	Covaxin/Covishield	Paid	71
+3C	Saidhan Health 	45-60 yrs	Covaxin/Covishield	Paid	8
+4C	My Health Care 	45-60 yrs	Covaxin/Covishield	Paid	79
+5C	Wellness Center	45-60 yrs	Covaxin/Covishield	Paid	82
+6C	Community Care 	45-60 yrs	Covaxin/Covishield	Paid	12
+7C	Fortis Hospital	45-60 yrs	Covaxin/Covishield	Paid	4
+8C	Jumbo Center   	45-60 yrs	Covaxin/Covishield	Free	70
+9C	Family Health  	45-60 yrs	Covaxin/Covishield	Paid	30
+
+p3.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1C	Community Care 	45-60 yrs	Covaxin/Covishield	Paid	85
+2C	Apex Hospital  	45-60 yrs	Covaxin/Covishield	Paid	10
+3C	My Health Care 	45-60 yrs	Covaxin/Covishield	Paid	87
+4C	Wellness Center	45-60 yrs	Covaxin/Covishield	Paid	42
+5C	Fortis Hospital	45-60 yrs	Covaxin/Covishield	Paid	19
+6C	LifelineMedical	45-60 yrs	Covaxin/Covishield	Paid	5
+7C	Family Health  	45-60 yrs	Covaxin/Covishield	Paid	5
+8C	Jumbo Center   	45-60 yrs	Covaxin/Covishield	Free	20
+9C	Saidhan Health 	45-60 yrs	Covaxin/Covishield	Paid	41
+
+q1.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1D	Community Care 	60+ years	Covaxin/Covishield	Paid	26
+2D	Fortis Hospital	60+ years	Covaxin/Covishield	Paid	73
+3D	Jumbo Center   	60+ years	Covaxin/Covishield	Free	11
+4D	LifelineMedical	60+ years	Covaxin/Covishield	Paid	37
+5D	Apex Hospital  	60+ years	Covaxin/Covishield	Paid	72
+6D	Saidhan Health 	60+ years	Covaxin/Covishield	Paid	88
+7D	Wellness Center	60+ years	Covaxin/Covishield	Paid	58
+8D	Family Health  	60+ years	Covaxin/Covishield	Paid	70
+9D	My Health Care 	60+ years	Covaxin/Covishield	Paid	62
+
+q2.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1D	Fortis Hospital	60+ years	Covaxin/Covishield	Paid	87
+2D	Apex Hospital  	60+ years	Covaxin/Covishield	Paid	43
+3D	My Health Care 	60+ years	Covaxin/Covishield	Paid	30
+4D	Wellness Center	60+ years	Covaxin/Covishield	Paid	31
+5D	LifelineMedical	60+ years	Covaxin/Covishield	Paid	56
+6D	Saidhan Health 	60+ years	Covaxin/Covishield	Paid	64
+7D	Community Care 	60+ years	Covaxin/Covishield	Paid	46
+8D	Jumbo Center   	60+ years	Covaxin/Covishield	Free	0
+9D	Family Health  	60+ years	Covaxin/Covishield	Paid	28
+
+q3.csv
+SN	Hospital Name  	Age Group	Vaccine           	Type	Slots
+1D	Fortis Hospital	60+ years	Covaxin/Covishield	Paid	85
+2D	LifelineMedical	60+ years	Covaxin/Covishield	Paid	23
+3D	Jumbo Center   	60+ years	Covaxin/Covishield	Free	13
+4D	Wellness Center	60+ years	Covaxin/Covishield	Paid	29
+5D	Community Care 	60+ years	Covaxin/Covishield	Paid	75
+6D	Saidhan Health 	60+ years	Covaxin/Covishield	Paid	75
+7D	Apex Hospital  	60+ years	Covaxin/Covishield	Paid	87
+8D	Family Health  	60+ years	Covaxin/Covishield	Paid	3
+9D	My Health Care 	60+ years	Covaxin/Covishield	Paid	72
